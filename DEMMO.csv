@@ -1,0 +1,13 @@
+Disease,Aspect,Detail,Overview,Source
+Diabetes,Cause,"Insulin resistance, genetics",Diabetes is primarily caused by the body's inability to use insulin effectively or produce enough insulin. Genetic factors also play a significant role.,Mayo Clinic
+Diabetes,Symptom,"Increased thirst, frequent urination","Common symptoms include excessive thirst, hunger, frequent urination, and unexplained weight loss.",WebMD
+Diabetes,Treatment,"Insulin therapy, dietary changes","Managing diabetes often requires insulin injections and lifestyle changes, such as diet and exercise.",NHS Guidelines
+Hypertension,Cause,"High salt diet, obesity","Hypertension, or high blood pressure, can result from dietary factors, obesity, or genetic predisposition.",American Heart Association
+Hypertension,Symptom,"Headaches, shortness of breath","Symptoms often include headaches, blurred vision, and shortness of breath, but it can also be asymptomatic.",HealthLine
+Hypertension,Treatment,"Medication, lifestyle changes",Treatment typically involves medication to lower blood pressure and lifestyle modifications like diet and exercise.,CDC Guidelines
+Depression,Cause,"Genetics, life events",Depression can be caused by a variety of factors including genetic predisposition and life events such as trauma or chronic stress.,Psychology Today
+Depression,Symptom,"Persistent sadness, loss of interest","Symptoms include a persistent feeling of sadness, loss of interest in activities, changes in appetite, and sleep disturbances.",WebMD
+Depression,Treatment,"Therapy, medication","Treatment typically involves psychotherapy, medication, or a combination of both. Lifestyle changes and support groups can also be beneficial.",National Health Service (NHS)
+Heart Disease,Cause,"Poor diet, lack of exercise, smoking",Conditions like heart disease are often caused by lifestyle factors and can lead to serious health issues like heart attacks and stroke.,American Heart Association
+Heart Disease,Symptom,"Chest pain, shortness of breath",Symptoms can range from chest pain and shortness of breath to fatigue and irregular heartbeat.,Mayo Clinic
+Heart Disease,Treatment,"Lifestyle changes, medication","Treatment often involves lifestyle changes, medication, and in some cases, surgery.",NHS Guidelines
